@@ -1,0 +1,5 @@
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-5.0&tabs=visual-studio
+https://medium.com/@kristaps.strals/docker-mongodb-net-core-a-good-time-e21f1acb4b7b
+https://mattdufeu.co.uk/blog/dotnet-core-with-mongodb-in-docker/
+https://phoenixnap.com/kb/docker-mongodb
+http://zetcode.com/csharp/mongodb/
